@@ -8,6 +8,6 @@ Essa aplicação foi desenvolvida exclusivamente para navegadores de computadore
 
 uma experiência nesse jogo pode ser obtida no link:
 
-https://rafael-silva-natal.github.io/QuimicaMemoryGame_vers-o1/
+
 
 ...por hora é isso... R.Silva
